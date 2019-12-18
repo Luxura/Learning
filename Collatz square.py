@@ -1,5 +1,6 @@
 # this will try to use the collatz squar
 # if number even return number // 2, sinon number * 3 +1
+# projet en cours
 
 
 def collatz(number):
